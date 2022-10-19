@@ -1,0 +1,16 @@
+40
+active
+lane
+2
+0
+shoulder
+2
+0
+vehicle
+300
+-20
+vehicle
+200
+0
+
+*should slow down and change to left lane

@@ -1,0 +1,16 @@
+45
+active
+lane
+1
+-1
+vehicle
+2
+3
+null
+0
+0
+null
+0
+0
+
+*maintains speed and course corrects lane towards the right

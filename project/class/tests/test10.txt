@@ -1,0 +1,18 @@
+45
+active
+vehicle
+2
+0
+lane
+2
+0
+vehicle
+250
+-50
+null
+0
+0
+
+Case where there's a close vehicle detected 
+in front and a vehicle to the left, 
+so we apply slight brakes and change lanes to the right

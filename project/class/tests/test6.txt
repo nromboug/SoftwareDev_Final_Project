@@ -1,0 +1,19 @@
+50
+active
+object
+2
+0
+vehicle
+2
+0
+object
+150
+-50
+null
+0
+0
+
+//Case for when there are no lanes available on the left or right side
+//and there is an object in front that is < 200
+//cc -> inactive
+//error -> "WARNING: CRASH DANGER\nApplying heavy brakes, change lanes if becomes available."

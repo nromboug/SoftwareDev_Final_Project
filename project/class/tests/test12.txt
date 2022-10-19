@@ -1,0 +1,18 @@
+65
+active
+vehicle
+2
+0
+lane
+2
+0
+object
+400
+-65
+null
+0
+0
+
+Case where there's a an object detected at the front
+and a right lane is open, so we change lanes to the right
+and maintain speed.

@@ -1,0 +1,18 @@
+65
+active
+vehicle
+2
+0
+lane
+2
+0
+vehicle
+500
+60
+null
+0
+0
+
+Case where there's a vehicle detected 
+in front and a vehicle to the left, 
+so we change lanes to the right

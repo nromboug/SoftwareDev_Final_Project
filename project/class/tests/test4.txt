@@ -1,0 +1,16 @@
+70
+active
+vehicle
+2
+0
+vehicle
+2
+0
+vehicle
+800
+-20
+null
+0
+0
+
+*should slow down and set cc to inactive

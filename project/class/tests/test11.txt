@@ -1,0 +1,18 @@
+45
+active
+lane
+2
+0
+object
+2
+0
+object
+350
+-45
+null
+0
+0
+
+Case where there's a an object detected at the front
+and a left lane is open, so we change lanes to the left
+and maintain speed.

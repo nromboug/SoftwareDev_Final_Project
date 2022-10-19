@@ -1,0 +1,16 @@
+40
+active
+lane
+2
+0
+lane
+2
+0
+vehicle
+500
+-40
+vehicle
+400
+20
+
+*should maintain speed and change to left lane

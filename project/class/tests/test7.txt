@@ -1,0 +1,16 @@
+30
+active
+shoulder
+2
+0
+lane
+2
+0
+vehicle
+500
+-20
+null
+0
+0
+
+should maintain speed and switch to the right lane

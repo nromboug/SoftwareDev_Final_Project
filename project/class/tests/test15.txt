@@ -1,0 +1,16 @@
+30
+active
+lane
+2
+1
+lane
+2
+-1
+null
+0
+0
+null
+0
+0
+
+should maintain course and speed but have lane correction left

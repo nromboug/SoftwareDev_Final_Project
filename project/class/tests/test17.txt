@@ -1,0 +1,17 @@
+55
+active
+lane
+2
+0
+vehicle
+2
+-6
+null
+0
+0
+null
+0
+0
+
+Case where there's  car
+approaching you from the right, gives warning

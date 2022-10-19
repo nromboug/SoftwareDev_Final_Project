@@ -1,0 +1,17 @@
+50
+active
+lane
+2
+0
+lane
+2
+0
+object
+150
+-50
+null
+0
+0
+
+Case where there's a a very close object detected at the front,
+so we heavily brake and disengage the CC.

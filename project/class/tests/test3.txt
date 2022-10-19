@@ -1,0 +1,16 @@
+60
+active
+shoulder
+2
+0
+vehicle
+2
+0
+vehicle
+300
+-20
+vehicle
+500
+-25
+
+*should slow down
